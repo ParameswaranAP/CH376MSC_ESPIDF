@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/katomaran/esp/esp_workspace/sample_project/build/CMakeFiles/bootloader
+/home/katomaran/esp/esp_workspace/sample_project/build/CMakeFiles/bootloader.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/CMakeFiles/bootloader-complete.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/katomaran/esp/esp_workspace/sample_project/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
